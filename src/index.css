@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme{
+   --breakpoint-md:627px;
+   --breakpoint-osas:627px;
+   --breakpoint-khan:1116px;
+    --color-mint-500: oklch(0.72 0.11 178);
+}
