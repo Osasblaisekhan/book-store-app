@@ -1,2 +1,2 @@
-const BASE_URL = 'http://localhost:5000/books';
-export default BASE_URL;
+const BASE_URL = 'https://book-store-app-backend-9xgq.onrender.com/books';
+export default BASE_URL
